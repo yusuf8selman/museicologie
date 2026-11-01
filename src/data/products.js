@@ -1,0 +1,42 @@
+export const PRODUCTS = [
+  {
+    id: "no-001",
+    name: "Zirgüle",
+    subtitle: "Perde ve Çeşni Dershânesi",
+    description: "",
+    x: 75, y: 25,
+    depth: 1.0,
+  },
+  {
+    id: "no-002",
+    name: "Kudüm",
+    subtitle: "Usül Dershânesi",
+    description: "",
+    x: 88, y: 60,
+    depth: 0.85,
+  },
+  {
+    id: "no-003",
+    name: "Seyr-i Makam",
+    subtitle: "Seyir Dershânesi",
+    description: "",
+    x: 12, y: 60,
+    depth: 0.75,
+  },
+  {
+    id: "no-004",
+    name: "Musicologie",
+    subtitle: "Nedir?",
+    description: "",
+    x: 25, y: 25,
+    depth: 0.9,
+  },
+  {
+    id: "no-005",
+    name: "Musiorganolog",
+    subtitle: "Modern Organoloji Platform'u",
+    description: "güzel bir site",
+    x: 50, y: 85,
+    depth: 0.65,
+  },
+];
